@@ -1,0 +1,133 @@
+*{
+margin: 0; padding: 0;
+border: none; outline: none;
+box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(210, 137, 35);
+}
+
+.wrapper{
+width: 1000px;
+height: 800px;
+background: rgb(193, 131, 233);
+background: linear-gradient(90deg, rgb(174, 88, 230) 0%, rgb(191, 60, 60) 50%, rgb(210, 137, 35) 100%);
+position: realitive;
+margin:50px auto;
+}
+
+input{
+    position: absolute;
+    width: 90px;
+    padding: 20px;
+    text-align: center;
+    font-weight: 700;
+    color:aqua;
+    background-color: chartreuse;
+}
+
+
+::placeholder{
+    color: blue;
+}
+
+
+
+#left_1{
+    width: 200px;
+font-size: 15px;
+padding: 15px;
+left: 27.5%;
+top: 12%;
+}
+
+#left_2{
+    width: 200px;
+font-size: 15px;
+padding: 15px;
+left: 39%;
+top: 5%;
+}
+
+#left_3{
+    width: 200px;
+font-size: 15px;
+padding: 15px;
+left: 50%;
+top: 12%;
+}
+
+#left_4{
+    width: 200px;
+font-size: 15px;
+padding: 15px;
+left: 55%;
+top: 20%;
+}
+
+
+#left_5{
+    width: 200px;
+font-size:15 px;
+padding: 15px;
+left: 23%;
+top: 20%;
+}
+
+#left_6{
+    width: 200px;
+font-size: 15px;
+padding: 12px;
+left: 23%;
+top:30%;
+}
+
+#right_7{
+    width: 200px;
+    font-size: 15px;
+    padding: 12px;
+    left: 50%;
+    top: 40%;
+}
+
+#right_8{
+    width: 200px;
+    font-size: 15px;
+    padding: 12px;
+    left: 27.5%;
+    top:40%;
+}
+
+
+#right_9{
+    width: 200px;
+    font-size: 15px;
+    padding: 12px;
+    left: 55%;
+    top:30%;
+}
+
+
+#right_10{
+    width: 200px;
+    font-size: 15px;
+    padding: px;
+    left: 39%;
+    top: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
